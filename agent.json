@@ -1,0 +1,15 @@
+{
+  "schema": "vivian.lctl-single-agent.v1",
+  "version": "1.0.0",
+  "agent_id": "player_critic",
+  "display_name": "Critique",
+  "repository": "vivian-lctl-critique-agent",
+  "scaffold": "BOTTLE_ROCKET_5.0.1_VM_110K_RC",
+  "lctl_profile": "LCTLC/1.1",
+  "frozen_source_authority": "4.7.0",
+  "policy_sha256": {
+    "source_sha256": "8cd15080fd2a717b509891975cb16b791ca98cc8fe1263ac69188a4575e15ffc",
+    "image_sha256": "3c233d8f4b5786f99c9f3377df90bdf03519477d811633bec8720b9fa8827a8d",
+    "brir_sha256": "dd3db47b025691d7eed7a0d55c6bafe44eb79a49658b75a274f9823e0e75c450"
+  }
+}
